@@ -1,0 +1,51 @@
+<!doctype html> 
+<html>
+<head>
+    <title>Fang - Guide to Walks</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/screen.css" media="all">
+    <link href='http://fonts.googleapis.com/css?family=Ubuntu|Raleway|Montserrat|Open+Sans|Oswald' rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/pure-min.css">
+    <script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+</head>
+<body>
+
+<header class="pure-g">
+    <span class="title pure-u-1-2">How to Improve Your Everyday Life - by Fang</span>
+
+    <ul class="pure-u-11-24">
+        <li class="header" style= "list-style:none"><a href="fin.html" style="text-decoration:none">Everyday Life</a></li>
+        <li class="header" style= "list-style:none"><a href="walks.html" style="text-decoration:none" class="selected">Guide to Walks</a></li>
+        <li class="header" style= "list-style:none"><a href="index.html" style="text-decoration:none">Home</a></li>
+        <li class="header" style= "list-style:none"><a href="index.html" style="text-decoration:none">Contact Me</a></li>
+    </ul>
+</header>
+
+<section>
+    <div class="upleft content walkingtip">
+    <span>If you make a ruckus while inside, your family will be forced to walk you.  I like to howl whenever something passes by outside and follow my various family members around until they submit to my will. Also make sure you ram yourself onto the door and growl while gnawing on the leash to improve the effect.</span>
+</div>
+    
+<div class="bot content location">
+    <img src="pic11.JPG" alt="bark park" title="hi" class="bpark contpic">
+    Another essential thing to enjoying your walks is finding a location that suits you.  I love any beach that I can get near, as well as the Batavia Bark Park, where my family allows me to run free without a leash!  You can search for a nearby dog park online, most areas will have one nearby.
+    <img src="pic9.JPG" alt="beach" title="hi" class="beach contpic">
+</div>
+
+<div class="right content duringwalk">
+
+    <video width="90%" height="42%" loop class="roll" autoplay>
+        <source src="vid1.MOV">
+    </video>
+
+    While on your walks, make sure you behave yourself. Unless you see something that moves faster than you, ie. joggers, bikers , cars.  Then bark as LOUD as you can and pull.  Also, whenever you get the opportunity, run away.  Just keep running until you get tired, then go back.  This method almost invariably gets you a treat because your family will be jubilated with your return.  Suckers.
+
+    <video width="90%" height="42%" loop class="bark" autoplay>
+        <source src="vid2.MOV">
+    </video>
+
+</div>
+</section>
+</body>
+</html>
